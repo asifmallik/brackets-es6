@@ -1,0 +1,21 @@
+{
+  "name": "brackets-es6",
+  "title": "ECMAScript 6 Integration",
+  "description": "Runs and compiles(to ECMAScript 5) ECMAScript 6 code from brackets.",
+  "homepage": "https://github.com/asifmallik/brackets-es6",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.30.0"
+  },
+  "keywords": [
+	"ECMAScript 6",
+    "node",
+    "node.js",
+    "execute"
+  ],
+  "dependencies": {
+	"traceur": "0.0.42",
+    "treekill": "0.0.0"
+  }
+}
