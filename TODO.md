@@ -1,1 +1,1 @@
-* ~~Autocompile each time when a file is saved(only for files specified by user)~~
+* Autocompile each time when a file is saved(only for files specified by user)
